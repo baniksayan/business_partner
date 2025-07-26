@@ -1,16 +1,23 @@
-# business_partner
+# Business Partner Flutter App
 
-A new Flutter project.
+A modern and responsive **Flutter mobile application** designed for performance, aesthetic UI, and scalable code structure. Built with **clean architecture**, **smooth animations**, and a future-proof tech stack for both Android and iOS platforms.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter**: `3.29.3 (Stable)` – for cross-platform UI development  
+- **Dart**: `3.7.2` – robust and type-safe programming language  
+- **Java**: `OpenJDK 24.0.1 (Temurin)` – for Android compilation (non-LTS but latest stable)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- **Animated splash screen** with integrated GIF support  
+- **Smooth navigation transitions** with fade/slide effects  
+- **Responsive layout** supporting both iOS & Android devices  
+- **Custom fonts**, color themes, and gradient design elements  
+- **Modular architecture** for better maintainability  
+
+---
