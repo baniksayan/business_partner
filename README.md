@@ -6,9 +6,9 @@ A modern and responsive **Flutter mobile application** designed for performance,
 
 ## Tech Stack
 
-- **Flutter**: `3.29.3 (Stable)` – for cross-platform UI development  
-- **Dart**: `3.7.2` – robust and type-safe programming language  
-- **Java**: `OpenJDK 24.0.1 (Temurin)` – for Android compilation (non-LTS but latest stable)
+- **Flutter**: `3.29.3 (Stable)`
+- **Dart**: `3.7.2`
+- **Java**: `OpenJDK 24.0.1 (Temurin)`
 
 ---
 
